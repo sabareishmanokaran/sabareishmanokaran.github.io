@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.sabareishmanokaran.habitflow",
+      "sha256_cert_fingerprints": [
+        "E6:62:6E:06:8C:36:8F:1B:E3:AF:E7:B9:2D:BA:1C:44:FC:8E:12:2F:6E:35:FA:B8:23:36:25:F2:D2:31:17:5C",
+        "04:9A:A0:8E:BE:00:08:39:C5:C3:58:72:CF:71:82:97:E4:BB:CA:9A:1A:9C:82:A3:27:05:53:96:4B:20:E7:32"
+      ]
+    }
+  }
+]
